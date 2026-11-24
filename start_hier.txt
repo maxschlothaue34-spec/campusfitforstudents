@@ -1,0 +1,9 @@
+CAMPUSFIT – START
+
+1. ZIP-Datei entpacken (Rechtsklick > Alle extrahieren).
+2. Den Ordner CampusFit öffnen.
+3. CampusFit.html doppelklicken.
+4. Die App öffnet sich in Edge, Chrome oder Firefox.
+
+Die App läuft lokal und offline. Trainingspläne, Profil, abgehakte Übungen und Mahlzeiten werden im Browser auf diesem PC gespeichert.
+Für einen anderen PC oder Browser werden die Daten nicht automatisch übertragen.
